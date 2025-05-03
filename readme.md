@@ -41,9 +41,9 @@ git clone https://github.com/tandukuda/OneCommander-Rose-Pine-Theme.git
 Settings → Personalization → Theme
 ```
 Select your desired variant:
-- [Rosé Pine](https://github.com/tandukuda/OneCommander-Rose-Pine-Theme/tree/main/Ros%C3%A9%20Pine)
-- [Rosé Pine Moon](https://github.com/tandukuda/OneCommander-Rose-Pine-Theme/tree/main/Ros%C3%A9%20Pine%20Moon)
-- [Rosé Pine Dawn](https://github.com/tandukuda/OneCommander-Rose-Pine-Theme/tree/main/Ros%C3%A9%20Pine%20Dawn)
+- [Rosé Pine](https://github.com/tandukuda/rose-pine-onecommander/tree/main/Ros%C3%A9%20Pine)
+- [Rosé Pine Moon](https://github.com/tandukuda/rose-pine-onecommander/tree/main/Ros%C3%A9%20Pine%20Moon)
+- [Rosé Pine Dawn](https://github.com/tandukuda/rose-pine-onecommander/tree/main/Ros%C3%A9%20Pine%20Dawn)
 
 ### 3. Enable Folder Icon Overrides (Optional)
 
