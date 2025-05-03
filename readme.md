@@ -57,13 +57,13 @@ To apply the custom folder icon pack across your system:
 ## Gallery
 
 **Rosé Pine**
-![](assets/standard.png)
+![standard](https://github.com/user-attachments/assets/23929d8f-9dc3-474f-8b8b-71d5622195a8)
 
 **Rosé Pine Moon**
-![](assets/moon.png)
+![moon](https://github.com/user-attachments/assets/f5b25a33-009d-4aaf-aa29-cedf7b011bc0)
 
 **Rosé Pine Dawn**
-![](assets/dawn.png)
+![dawn](https://github.com/user-attachments/assets/c7f1430b-9b2f-4203-b2ba-85180d31c02e)
 
 
 ## Thanks
