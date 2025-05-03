@@ -31,7 +31,7 @@ C:\Users\<YourUsername>\AppData\Local\OneCommander\Themes
 1. Download or clone this repository:
 
 ```bash
-git clone https://github.com/tandukuda/OneCommander-Rose-Pine-Theme.git
+git clone https://github.com/tandukuda/rose-pine-onecommander.git
 ```
 
 2. Copy the full folder into the `Themes` directory.
